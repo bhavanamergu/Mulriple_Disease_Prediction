@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Mergu Bhavana\Downloads\Multi Desease Prediction System - ML\multiple disease pred.py"
